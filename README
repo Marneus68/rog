@@ -1,0 +1,24 @@
+"rog" - or simply "r" was supposed to be my submission for the Ludum Dare 23.
+
+I lost hope to make it playable, and gave up the competion one hour before the
+deadline, but I liked the idea. I'll probally do a new version with SDL.
+
+I didn't use the full 48 hours to produce that horrible piece of software. I had
+other obligations that week-end that made me waste precious hours and focus on 
+the project.
+
+Theme : Tiny World
+Game name : r
+
+The game area window is 30 x 40 pixels big.
+You are the blue pixel, navigating int the brown dungeons and coridors, 
+searching for the dark brow exit, fighting red monsters.
+The red bar on the top shows your health, the yellow bar, your level, the blue
+bar, your experience.
+You win 2 experience points for reaching the exit of a level, this will bring 
+you to a new level
+You win 1 experience point for killing a monster.
+If your reach 10 experience points you'll gain a level, that will reset your
+experience bar.
+The levels will progressivelly contain more and more monsters until you reach 
+"the end".
